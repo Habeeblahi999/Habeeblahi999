@@ -53,6 +53,19 @@ A production ready NFT minting contract with advanced features
 
 ---
 
+### 🏦 Solidity Staking Contract
+A production-ready ERC-20 staking contract with rewards and lock period
+- 💰 20% APY reward rate
+- 🔒 30 day lock period
+- 🚨 Emergency withdraw mechanism
+- 🛡️ ReentrancyGuard protection
+- ✅ 15 passing Hardhat tests
+- ✅ Deployed on Ethereum Sepolia Testnet
+
+**[View Contract on Etherscan](https://sepolia.etherscan.io/address/0x78c36b4c3eB37D1c4d05A9c3847e6176D3d05D57)** | **[GitHub](https://github.com/Habeeblahi999/solidity-staking-contract)**
+
+---
+
 ## 📊 GitHub Stats
 
 ![Habeeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Habeeblahi999&show_icons=true&theme=dark)
