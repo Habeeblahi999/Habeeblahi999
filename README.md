@@ -33,8 +33,8 @@ on the Ethereum blockchain.
 A custom ERC-20 token with burn, mint and tax mechanics
 - 🔥 2% automatic burn on every transfer
 - 💰 3% tax fee sent to treasury wallet
-- 🪙 Owner controlled mint function
-- ✅ Deployed on Ethereum Sepolia Testnet
+- 🪙 Owner controlled minting function
+- ✅ Deployed on Sepolia Testnet
 
 **[View Contract on Etherscan](https://sepolia.etherscan.io/address/0x529947f3D24e7E50248C3c708B3053b9782961de)** | **[GitHub](https://github.com/Habeeblahi999/erc20-custom-token)**
 
